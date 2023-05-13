@@ -1,0 +1,7 @@
+P2
+# lena.pgma created by PGMA_IO::PGMA_WRITE.
+8  8
+245
+0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0

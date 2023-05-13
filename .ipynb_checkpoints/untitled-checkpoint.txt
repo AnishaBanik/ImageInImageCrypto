@@ -1,0 +1,10 @@
+1. image read = img.readline() ekta ekta kore line return korbe fixed object
+2. pgm
+    i. img type
+    ii. comment
+    iii. image dimention jeta vebe next line gulo read hbe
+    iv. maximum pixel er value
+    v. baki sob baaler pixel (BP)
+3. BP first 512 data point (mane eta first row image er) L1
+4. repeat kore 8 bar kore,8 ta row bar korli L1->L8
+5. first 8 kore every rowtheke
